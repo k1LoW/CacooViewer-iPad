@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+ }
+
+div#loader {
+    position:absolute;
+    top: 0;
+    right: 0;
+    width: 150px;
+    padding: 3px;
+    padding-left: 8px;
+    font-family: sans-serif;
+    background-color: #158AEA;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 18px;
+ }
+
+div#content {
+    padding: 5px;
+ }
